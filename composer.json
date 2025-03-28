@@ -1,5 +1,5 @@
 {
-  "name": "vulnerable-php-project",
+  "name": "ir-paras-oli/php_laravel_crud_application",
   "description": "A project with intentionally vulnerable dependencies.",
   "require": {
     "symfony/symfony": "2.8.0",
